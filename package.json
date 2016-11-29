@@ -6,17 +6,9 @@
   "scripts": {
     "start": "node server.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/tatianaalcocer/PhotographyRater.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/tatianaalcocer/PhotographyRater/issues"
-  },
-  "homepage": "https://github.com/tatianaalcocer/PhotographyRater#readme",
   "dependencies": {
     "body-parser": "^1.15.2",
     "dominant-color": "0.0.1",
